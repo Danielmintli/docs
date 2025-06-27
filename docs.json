@@ -18,7 +18,8 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "development",
+              "testing"
             ]
           },
           {
@@ -40,8 +41,7 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction",
-              "api-reference/testing"
+              "api-reference/introduction"
             ]
           },
           {
